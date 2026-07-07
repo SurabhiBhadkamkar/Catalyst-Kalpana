@@ -1,0 +1,6 @@
+{
+  "name": "Catayst Kalpana",
+  "description": "A dark-themed, highly interactive full-screen hero section for the geology brand Catayst Kalpana, featuring a cursor-following spotlight reveal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
