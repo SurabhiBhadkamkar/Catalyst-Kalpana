@@ -1,7 +1,7 @@
 import React from 'react';
 import { Github, Instagram, Mail, Phone, Sparkles } from 'lucide-react';
 import { TransparentLogo } from './TransparentLogo';
-const logoImg = "/src/assets/images/catalyst_kalpana_1783433883960.jpg";
+const logoImg = "/logo img.png";
 
 interface FooterProps {
   onTabChange?: (tab: string) => void;
